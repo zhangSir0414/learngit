@@ -3,4 +3,4 @@ Git is free software.
 999asdajasfsafasf GPL
 Git has a mutable index called stage.
 Git tracks changes
-creating a new branch is quik
+creating a new branch is quik & simple
